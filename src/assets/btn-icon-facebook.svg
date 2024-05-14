@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41" height="41" viewBox="0 0 41 41">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Background" width="32" height="32" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="btn_icon_apple_Copy" data-name="btn/icon/apple Copy" transform="translate(0.5 0.5)">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="40" height="40" fill="#fafafa" stroke="#eee" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="icons8-facebook" transform="translate(4 4)">
+      <rect id="Background-2" data-name="Background" width="32" height="32" fill="none"/>
+      <g id="icons8-facebook-2" data-name="icons8-facebook" clip-path="url(#clip-path)">
+        <path id="Shape" d="M12.667,0A12.667,12.667,0,1,0,25.333,12.667,12.667,12.667,0,0,0,12.667,0Z" transform="translate(3.333 3.333)" fill="#039be5"/>
+        <path id="Shape-2" data-name="Shape" d="M6.743,10.823h3.278l.515-3.33H6.743V5.673c0-1.383.452-2.61,1.746-2.61h2.079V.157A17.663,17.663,0,0,0,7.97,0C4.921,0,3.134,1.61,3.134,5.278V7.493H0v3.33H3.134v9.153a12.693,12.693,0,0,0,1.895.157A12.75,12.75,0,0,0,6.743,20v-9.18Z" transform="translate(10.971 8.534)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
