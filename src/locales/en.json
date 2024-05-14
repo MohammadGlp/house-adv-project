@@ -1,0 +1,82 @@
+{
+  "introduction": {
+    "title": "Home is the main decision.",
+    "description": "Find the house you want with the help of expert consultants."
+  },
+  "header": {
+    "home": "Home",
+    "login": "Login",
+    "logout": "Logout",
+    "category": "Category",
+    "price": "Price",
+    "contactUs": "Contact Us",
+    "addAdv": "Add Adv",
+    "editAdv": "Edit Adv"
+  },
+  "footer": {
+    "title": {
+      "menu": "Menu",
+      "more": "More",
+      "most": "Most"
+    },
+    "items": {
+      "title": "Main",
+      "link_1": "Site",
+      "link_2": "Gang",
+      "link_3": "Color",
+      "link_4": "Site Man",
+      "link_5": "Cycle",
+      "link_6": "Crowd"
+    },
+    "copyRight": "Copyright © 2023 Maskan Mehr. All rights reserved."
+  },
+  "login": {
+    "title_btn_navbnar": "Sign In",
+    "main_title": "Log in to Maskan Mehr",
+    "description": "Quick & Simple way to Automate your adv",
+    "password": "password",
+    "remember": "Remember Me",
+    "submit": "PROCEED"
+  },
+  "register": {
+    "title_btn_navbnar": "Sign Up",
+    "main_title": "Sign in to Maskan Mehr",
+    "username": "John Doe",
+    "password": "password: Aas@1234",
+    "remember": "I agree to the Terms of Service and Privacy Policy.",
+    "submit": "CREATE AN ACCOUNT"
+  },
+  "category": {
+    "category_title": "Advertisment Category"
+  },
+  "category_detail": {
+    "edit_adv": "edit",
+    "delete_adv": "delete"
+  },
+  "add_adv": {
+    "title": "house name",
+    "address": "house address",
+    "phone": "house phone number",
+    "price": "house price",
+    "description": "description"
+  },
+  "modal": {
+    "alert_title": "Are you sure you want to delete this product?",
+    "editData": "Edit Post Modal",
+    "yes": "Yes, I'm sure",
+    "no": "No, cancel"
+  },
+  "toast_messages" : {
+    "add_adv_success": "Your post is successfully added.",
+    "edit_adv_success": "Your post is successfully edited.",
+    "delete_adv_success": "Your post is successfully deleted.",
+    "adv_fail": "Something went wrong try again later.",
+    "login": "You are successfully login.",
+    "logout": "You are successfully logout.",
+    "registered": "You are successfully registered.",
+    "validation_email": "Your email is incorrect or you do not have account please do registration.",
+    "validation_password": "Your password is incorrect.",
+    "validation_account_exist": "Your account has already been registered."
+  },
+  "no_data": "Do not have any data to show"
+}
